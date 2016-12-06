@@ -1,5 +1,5 @@
 @echo off
-set vlc_path=C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+set vlc_path=C:\Program Files\VideoLAN\VLC\vlc.exe
 set vlc_error=VLC executable not found at specified path. To resolve this error, edit the CMD file to point to the correct path.
 set combine_string=""
 if not exist "%vlc_path%" goto :vlc_not_found
@@ -29,4 +29,3 @@ exit /B
 
 :end
 exit /B
-
