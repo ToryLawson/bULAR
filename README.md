@@ -1,4 +1,4 @@
-# bULAR - the batch Udacity Lecture Audio Ripper
+# bULAR - a batch Udacity Lecture Audio Ripper
 CMD script using VLC to transcode Udacity lectures into audio for listening offline in the car, exercising, etc.
 
 My time in the OMSCS program has taught me to take advantage of every opportunity to stay on top of the Udacity lectures that we are responsible for watching every week. To create another avenue for doing this, I looked for a way to convert those lectures into audio files so that I could listen to them as I commute. 
