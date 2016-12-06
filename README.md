@@ -7,7 +7,7 @@ My time in the OMSCS program has taught me to take advantage of every opportunit
 For now , a Windows machine and [VLC](http://www.videolan.org/vlc/), an open source media player/transcoder/slicer/dicer/etc. When installing VLC you'll want to be mindful of the installation options, which are maybe too aggressive in taking over your defaults.
 
 ###Download the lecture files###
-![get your lecture files here](udacity_downloadables.png "get your lecture files here") This part is easy: there's a special button, enabled I think at the discretion of the professor, which allows you to download the video lecture files. These will come in a .zip file, which you can then extract to a directory. 
+![get your lecture files here](http://torylawson.com/archives/how-to-turn-udacity-lectures-into-an-mp3/udacity_downloadables.png "get your lecture files here") This part is easy: there's a special button, enabled I think at the discretion of the professor, which allows you to download the video lecture files. These will come in a .zip file, which you can then extract to a directory. 
 
 ###Now for the script###
 The script will take all the video files in the current directory and then turn those into a single .mp3 file, so you'll probably want to keep individual sections separate unless they are short.
